@@ -1,5 +1,3 @@
-11/11/2021
-
 caesar cipher.py program takes as input a message and a shift key then using the caser cipehr ecrypts the message. There is also an 
 option to input a encrypted message and the shift key to decrypt a message.
 
